@@ -1,6 +1,15 @@
 # logo-maker
 A logo-maker
 
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+    ## Table of Contents
+- [Project Descrition](#Description)
+- [Install/Usage](#Installation)
+- [Contributions](#Contributions)
+- [Questions](#Questions)
+- [License](#License)
+
 ## Description
 Project was created to help create an SVG logo for people to use as they see fit.
 
