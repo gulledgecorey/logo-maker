@@ -4,7 +4,7 @@ A logo-maker
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
     ## Table of Contents
-- [Project Descrition](#Description)
+- [Project Description](#Description)
 - [Install/Usage](#Installation)
 - [Contributions](#Contributions)
 - [Questions](#Questions)
